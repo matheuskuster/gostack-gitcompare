@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="GitCompare" title="GitCompare" src=".github/GitCompare.png" width="200px" />
+  <img alt="GitCompare" title="GitCompare" src=".github/GitCompare.png"  />
 
 React GitCompare
 
