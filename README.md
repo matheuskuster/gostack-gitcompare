@@ -10,17 +10,17 @@ Github repos compare with React
 </h4>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/matheuskuster/gostack-gitcompare.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/matheuskuster/gostack-gitcompare-react.svg">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/count/matheuskuster/gostack-gitcompare.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/count/matheuskuster/gostack-gitcompare-react.svg">
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/repo-size/matheuskuster/gostack-gitcompare.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/repo-size/matheuskuster/gostack-gitcompare-react.svg">
 
   <a href="https://api.codacy.com/project/badge/Grade/c5aeea379c5041c1b34e4e0163e84496" target="_blank">
     <img alt="Codacy Badge" src="https://img.shields.io/codacy/grade/c5aeea379c5041c1b34e4e0163e84496">
   </a>
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/last-commit/matheuskuster/gostack-gitcompare.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/last-commit/matheuskuster/gostack-gitcompare-react.svg">
 </p>
 
 <p align="center">
@@ -50,10 +50,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/matheuskuster/gostack-gitcompare
+$ git clone https://github.com/matheuskuster/gostack-gitcompare-react
 
 # Go into the repository
-$ cd gostack-gitcompare
+$ cd gostack-gitcompare-react
 
 # Install dependencies
 $ yarn install
@@ -64,7 +64,7 @@ $ yarn start
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/matheuskuster/gostack-gitcompare/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/matheuskuster/gostack-gitcompare-react/blob/master/LICENSE) for more information.
 
 ---
 
